@@ -1,0 +1,30 @@
+body{
+  background-color: #02010a;
+  font-family: "Dancing Script";
+}
+
+header{
+  background-color: #5b7989;
+  border-radius: 10px 10px 0px 0px;
+}
+
+header h1{
+  color: white;
+  text-align: left;
+  text-shadow: 2px 2px #02010a;
+}
+
+header nav{
+  position:
+}
+
+.container {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+  max-width: 900px;
+  display: -webkit-flex;
+	display: flex;
+	-webkit-flex-flow: row wrap;
+	flex-flow: row wrap;
+}
